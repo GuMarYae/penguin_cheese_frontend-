@@ -120,5 +120,5 @@ const Show = (props) => {
     return <h1>No singleCheese</h1>;
   }
 };
-//smh
+//sm
 export default Show;
